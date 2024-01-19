@@ -87,9 +87,6 @@ Tentunya disini berisi code java untuk menjalankan fungsi perhitungan dari rumus
 
 Ini adalah layout dari activity count, ada beberapa tombol disini seperti set limit, count, dan reset. Angka yang ditampilkan juga sudah menggunakan code warna, agar setiap angka yang ditampilkan memiliki warna yang berbeda dengan angka sebelumnya.
 
-- Hasil Run Count
-
-
 e. Source Code Activity Scroll Movie
 
 - SianidaActivity.java
@@ -99,8 +96,6 @@ Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat d
 - activity_sianida.xml
 
 Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ada perubahan. Disini, digunakan sebuah scrollview yang bisa menjadikan text yang begitu panjang dan tidak muat dalam satu layar penuh, maka dengan ini kita bisa membaca semua isi kontennya hanya dengan cara scroll layar.
-
-- Hasil Run Sianida
 
 
 f. Source Code Activity TwoActivity
@@ -112,8 +107,6 @@ Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java terseb
 - activity_twoact.xml & activity_twoact2.xml
 
 Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
-
-- Hasil Run TwoActivity
 
 
 g. Source Code Alarm
@@ -142,8 +135,6 @@ ini:
           dan
               <action android:name="android.intent.action.SET_ALARM" />
   
-- Hasil Run Alarm
-
 
 h. Source Code Open Map
 
@@ -156,8 +147,6 @@ h. Source Code Open Map
               map.setPackage("com.google.android.apps.maps");
               startActivity(map);
           });
-
-- Hasil Run Open Map
 
 
 i. Source Code Activity Fragment
@@ -188,10 +177,13 @@ Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang 
 
 Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didalamnya menampilkan daftar film sesuai dengan genrenya. Layout ini terhubung dengan ketiga java diatas.
 
-- Hasil Run Fragment
-
 
 # Hasil Akhir dari semua Activity
+
+
+
+https://github.com/Najwaiffa/UAS_Mobile/assets/115856206/73dcf725-29b7-4aa6-bf7d-49359c75d8d3
+
 
 
 # Sekian Terima Kasih
